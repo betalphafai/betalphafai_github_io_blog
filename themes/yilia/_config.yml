@@ -34,7 +34,7 @@ open_in_new: false
 favicon: /favicon.png
 
 #你的头像url
-avatar: http://tp3.sinaimg.cn/1762892502/180/39996555071/1
+avatar: "/img/avatar.jpg"
 #是否开启分享
 share: true
 #是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
@@ -56,4 +56,4 @@ friends:
 #不开启——
 #aboutme: false
 #开启——
-aboutme: 走在黑暗，追逐阳光，被诅咒的人，我是「蝶花」
+aboutme: "走在黑暗，追逐阳光，被诅咒的人，我是「蝶花」\nbetalphafai@gmail.com"
